@@ -1,0 +1,13 @@
+{
+  "name": "chatClient",
+  "developer": {
+    "name": "Nick Desaulniers",
+    "url": "http://nickdesaulniers.github.io"
+  },
+  "description": "simple chat client",
+  "icons": {
+    "128": "/128.jpeg"
+  },
+  "launch_path": "/index.html"
+}
+

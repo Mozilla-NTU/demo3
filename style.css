@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+article {
+  border: 1px solid black;
+  height: 25%;
+  overflow-y: auto;
+
+  /* Used to clear floated
+   * elements */
+  clear: both;
+}
+
+article img {
+  width: 100px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+header {
+  height: 100px;
+}
+
+div.right {
+  height: 100%;
+}
+
+#description {
+  border: 1px solid black;
+  height: 100%;
+}
+
